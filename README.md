@@ -6,7 +6,9 @@ To solve this problem, all we need is comprehensive career guidance from the sta
 To be more specific with the options being offered we divide the users into 3 divisions:
 
   1)After Secondary school
+  
   2)After Higher Secondary
+  
   3)After Graduation
 
 The youth of the country will have wider perspective and increased clarity on the available career options at each step of their life. Once the user dives beyond their originally-anticipated scope with the help of a career counsellor, new doors become open. 
