@@ -1,0 +1,2 @@
+# career-guidance
+From birth to old age, proper career counseling is critical in molding one's life path. We all know that we live in a highly competitive era where people must compete in every aspect of their lives in order to achieve their ultimate goal.Making the right career decision at the right time makes a lot of difference. Hence career guidance/counselling plays a very important role in shaping the future of every individual.
