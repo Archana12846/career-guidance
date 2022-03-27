@@ -3,7 +3,8 @@ From birth to old age, proper career counseling is critical in molding one's lif
 This problem is not only faced by the students at the high school level but also faced by students at the undergraduate  level where students are often confused about which career to choose among the vast options available in the market .Even graduate students are confused about the available career options, whether to pursue higher studies or rather go for job.
 Making the right career decision at the right time makes a lot of difference. Hence career guidance/counselling plays a very important role in shaping the future of every individual.
 To solve this problem, all we need is comprehensive career guidance from the start of any academic career.  This web application aims at providing the best career guidance with the right means to  achieve their goal by taking into consideration the students' abilities in academics, hobbies, skills, knowledge, interests and technicalities. A student at the school level/ graduate level/undergraduate level can use this application to find the right career based on their interests and skills .
-To be more specific with the options being offered we divide the users into 3 divisions
+To be more specific with the options being offered we divide the users into 3 divisions:
+
   1)After Secondary school
   2)After Higher Secondary
   3)After Graduation
